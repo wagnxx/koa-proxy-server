@@ -8,7 +8,7 @@ const proxy = require('koa2-proxy-middleware')
 const history = require('connect-history-api-fallback');
 const middleHistory = () => {
   const middleware = history({
-    index: '/org'
+    index: '/edit/index.html'
   });
   return async (ctx, next)=> {
     middleware(ctx, null, () => {});
