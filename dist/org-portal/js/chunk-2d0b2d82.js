@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b2d82"],{"269a":function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"list":[{"accountTypeName":"Airtime Purchase Account","accountTypeId":"10027"},{"accountTypeName":"Airtime to M-Pesa Account","accountTypeId":"21592"},{"accountTypeName":"Archived Funds Holding Account","accountTypeId":"10029"}]}')}}]);
+//# sourceMappingURL=chunk-2d0b2d82.js.map

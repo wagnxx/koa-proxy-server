@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aaec8"],{"12a2":function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"flag":true,"description":"msisdn length illegal [8-18]"}')}}]);
+//# sourceMappingURL=chunk-2d0aaec8.js.map

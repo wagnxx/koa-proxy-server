@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-770c4350"],{c3cb5:function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"list":[{"code":"20231","name":"C2B Zero Rated Tariff School"},{"code":"20221","name":"C2B 1PCT Tariff"}]}')}}]);
+//# sourceMappingURL=chunk-770c4350.js.map

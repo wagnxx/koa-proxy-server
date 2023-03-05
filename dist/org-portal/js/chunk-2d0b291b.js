@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b291b"],{2557:function(e){e.exports=JSON.parse('{"header":{"commandID":"GetOrganizationInfo","responseCode":"SYS00000","responseDesc":"Operation success.","referenceDatas":{},"success":true},"list":[{"organizationId":"111","organizationName":"child1","identityId":"20300000000010001","shortCode":"10086","status":"03","parentId":"20300000000010000"}]}')}}]);
+//# sourceMappingURL=chunk-2d0b291b.js.map

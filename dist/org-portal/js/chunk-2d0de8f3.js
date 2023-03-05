@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0de8f3"],{"85bb":function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"dics":[{"name":"Charges Paid High Volume Account","code":"10135"}]}')}}]);
+//# sourceMappingURL=chunk-2d0de8f3.js.map

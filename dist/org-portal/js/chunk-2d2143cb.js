@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2143cb"],{afa1:function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"total":1,"data":[{"bulkType":"B2B BULK PAYMENT CSV","serviceIds":[10727,10725,10730,10735,10737,10738]}],"status":"SUCCESS"}')}}]);
+//# sourceMappingURL=chunk-2d2143cb.js.map

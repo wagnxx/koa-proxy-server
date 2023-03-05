@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d441"],{f782:function(r){r.exports=JSON.parse('{"header":{"commandID":"string","conversationID":"string","errorCause":"string","errorSolution":"string","orderId":"string","orderState":"string","origConversationID":"string","referenceDatas":{"additionalProp1":"string","additionalProp2":"string","additionalProp3":"string"},"responseCode":"string","responseDesc":"string","success":true},"identityId":"string"}')}}]);
+//# sourceMappingURL=chunk-2d22d441.js.map

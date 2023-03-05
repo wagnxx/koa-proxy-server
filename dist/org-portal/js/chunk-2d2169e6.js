@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2169e6"],{c2de:function(e){e.exports=JSON.parse('{"header":{"commandID":"deleteBankAccount","responseCode":"SYS00000","responseDesc":"Operation success.","referenceDatas":{},"success":true},"assetId":"1010000002209230390110000060000"}')}}]);
+//# sourceMappingURL=chunk-2d2169e6.js.map

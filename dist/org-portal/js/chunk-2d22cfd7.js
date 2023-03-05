@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22cfd7"],{f61b:function(e){e.exports=JSON.parse('{"header":{"commandID":"QueryCustomerList","responseCode":"SYS00000","responseDesc":"Operation success.","referenceDatas":{},"success":true},"customerList":[{"identityId":"101100110000008428001","customerType":1002,"msisdn":"13200013638","firstName":"san","lastName":"ban","middleName":"sui","birthday":"2001-12-01","status":"02","suspended":false}],"total":1}')}}]);
+//# sourceMappingURL=chunk-2d22cfd7.js.map

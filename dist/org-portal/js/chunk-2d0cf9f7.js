@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cf9f7"],{6502:function(e){e.exports=JSON.parse('{"header":{"commandID":"GetIdentityGrantRole","responseCode":"SYS00000","responseDesc":"Operation success.","referenceDatas":{},"success":true},"dics":[{"name":"Organization","code":"5000"}]}')}}]);
+//# sourceMappingURL=chunk-2d0cf9f7.js.map

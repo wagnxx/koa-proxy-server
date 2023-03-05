@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e9384"],{"8d35":function(o){o.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"list":[{"organizationDTO":{"organizationId":"101100150001000000681","shortCode":"0100681","organizationName":"010068","status":"03","region":""},"hasProfile":true},{"organizationDTO":{"organizationId":"101100150001000000682","shortCode":"0100682","organizationName":"010068","status":"03","region":""},"hasProfile":true}],"total":1}')}}]);
+//# sourceMappingURL=chunk-2d0e9384.js.map

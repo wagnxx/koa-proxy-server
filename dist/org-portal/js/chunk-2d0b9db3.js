@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b9db3"],{3572:function(e){e.exports=JSON.parse('{"header":{"commandID":"ChangeCustStatusWithApproval","orderId":"1011001202210300531010000001019","responseCode":"SYS00000","responseDesc":"Operation success.","conversationID":"spportal-server136740408891LguQ1D2tbE","referenceDatas":{},"success":true}}')}}]);
+//# sourceMappingURL=chunk-2d0b9db3.js.map

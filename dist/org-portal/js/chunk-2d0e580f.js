@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e580f"],{9585:function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"missdnRanges":[{"identityType":"TILL","numberBegin":"86810000001","numberEnd":"86819999999","numberLength":11},{"identityType":"TILL","numberBegin":"8613300000001","numberEnd":"8613300099999","numberLength":13},{"identityType":"TILL","numberBegin":"8686000000000","numberEnd":"8686999999999","numberLength":13}]}')}}]);
+//# sourceMappingURL=chunk-2d0e580f.js.map

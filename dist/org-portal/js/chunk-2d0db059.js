@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0db059"],{"6da6":function(e){e.exports=JSON.parse('{"header":{"commandID":"QueryActiveTask","responseCode":"SYS00000","responseDesc":"Operation success.","referenceDatas":{},"success":true},"list":[{"identityId":"aaa","description":"desc","roleCategory":"111"},{"identityId":"bbb","description":"desc","roleCategory":"222"},{"identityId":"ccc","description":"desc","roleCategory":"333"}]}')}}]);
+//# sourceMappingURL=chunk-2d0db059.js.map

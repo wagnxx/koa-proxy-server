@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c912b"],{"581c":function(o){o.exports=JSON.parse('{"workflowNameList":[{"procDefId":"IC_ResetSIMWorkflow","workflowName":"Reset SIM","category":"TRANSATION_AND_ACTION"},{"procDefId":"IC_ResetSIMWorkflow|Intervention","workflowName":"IC_ResetSIMWorkflow|Intervention","category":"TRANSATION_AND_ACTION"}]}')}}]);
+//# sourceMappingURL=chunk-2d0c912b.js.map

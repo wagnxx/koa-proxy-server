@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bd186"],{"2b11":function(e){e.exports=JSON.parse('{"header":{"commandID":"setIdentityBankAccount","responseCode":"SYS00000","responseDesc":"Operation success.","referenceDatas":{},"success":true}}')}}]);
+//# sourceMappingURL=chunk-2d0bd186.js.map

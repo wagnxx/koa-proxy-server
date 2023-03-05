@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0be2fc"],{"2ed7":function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"jsonDataStr":"[{\\"code\\":\\"1\\",\\"value\\":\\"Standard Lesotho Bank\\"},{\\"code\\":\\"2\\",\\"value\\":\\"NEDBANK LESOTHO LIMITED\\"},{\\"code\\":\\"3\\",\\"value\\":\\"FIRST NATIONAL BANK\\"},{\\"code\\":\\"4\\",\\"value\\":\\"POSTBANK\\"},{\\"code\\":\\"5\\",\\"value\\":\\"CENTRAL BANK OF LESOTHO\\"}]"}')}}]);
+//# sourceMappingURL=chunk-2d0be2fc.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b1c02"],{"20d2":function(e){e.exports=JSON.parse('{"lists":[{"attributes":null,"key":"CPS_SYS_ID_TYPE","names":[{"key":"CPS_SYS_ID_TYPE","value":"01","languageCode":"en","name":"National ID"}],"value":"01","displayOrder":1,"defaultName":"National ID","status":"1","storedInDB":true,"editable":true}],"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"result":true}')}}]);
+//# sourceMappingURL=chunk-2d0b1c02.js.map

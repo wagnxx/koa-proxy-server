@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ddde4"],{"82e9":function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"chargeProfileList":[{"chargeProfileId":20103,"chargeProfileName":"Default Customer Tariff"},{"chargeProfileId":20131,"chargeProfileName":"TestPoli Default Customer Tariff"}],"defaultChargeProfile":{"chargeProfileId":20103,"chargeProfileName":"Default Customer Tariff"}}')}}]);
+//# sourceMappingURL=chunk-2d0ddde4.js.map

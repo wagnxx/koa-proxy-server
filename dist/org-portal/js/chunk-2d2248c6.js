@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2248c6"],{e137:function(e){e.exports=JSON.parse('{"header":{"commandID":"ChangeOrgStatusWithApprovalService","responseCode":"SYS00000","responseDesc":"Operation success.","referenceDatas":{},"success":true},"dictList":["Bulk","Business Operation","Configuration","Manual Task","Transaction and Action"]}')}}]);
+//# sourceMappingURL=chunk-2d2248c6.js.map

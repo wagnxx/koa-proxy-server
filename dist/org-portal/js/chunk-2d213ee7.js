@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d213ee7"],{af7c:function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"locales":[{"id":"en_US","name":"English (United States)"},{"id":"en","name":"English"},{"id":"ro","name":"română"}]}')}}]);
+//# sourceMappingURL=chunk-2d213ee7.js.map

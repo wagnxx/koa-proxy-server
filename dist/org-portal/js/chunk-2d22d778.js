@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d778"],{f82b:function(i){i.exports=JSON.parse('{"LSL":{"symbol":"M","symbolPos":"LEFT","decimalPoint":"","groupingSymbol":"","negativeSignPrefix":"","negativeSignSuffix":"","positiveSignPrefix":"","positiveSignSuffix":""},"USD":{"symbol":"$","symbolPos":"LEFT","decimalPoint":"","groupingSymbol":"","negativeSignPrefix":"","negativeSignSuffix":"","positiveSignPrefix":"","positiveSignSuffix":""},"header":{"success":true}}')}}]);
+//# sourceMappingURL=chunk-2d22d778.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0db087"],{"6dad":function(e){e.exports=JSON.parse('{"header":{"commandID":"createBankAccount","responseCode":"SYS00000","responseDesc":"Operation success.","referenceDatas":{},"success":true},"assetId":"1010000002209230390110000060000"}')}}]);
+//# sourceMappingURL=chunk-2d0db087.js.map

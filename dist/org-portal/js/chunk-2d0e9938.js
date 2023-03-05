@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e9938"],{"8db8":function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"dataDictJson":"[{\\"code\\":\\"10\\",\\"name\\":\\"Deposit Account\\"},{\\"code\\":\\"11\\",\\"name\\":\\"Credit Card\\"},{\\"code\\":\\"12\\",\\"name\\":\\"Debit Card\\"},{\\"code\\":\\"20\\",\\"name\\":\\"3rd Payment Account\\"}]"}')}}]);
+//# sourceMappingURL=chunk-2d0e9938.js.map

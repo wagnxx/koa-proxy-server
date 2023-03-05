@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d6ce0"],{"73b0":function(e){e.exports=JSON.parse('{"header":{"commandID":"changeOrgOperatorStatusWithApprovalService","responseCode":"SYS00000","responseDesc":"Operation success.","conversationID":"spportal-server136565138260LfBXTEvHIe","referenceDatas":{},"success":true}}')}}]);
+//# sourceMappingURL=chunk-2d0d6ce0.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cc01a"],{"4ba7":function(e){e.exports=JSON.parse('{"header":{"responseCode":"SYS00000","referenceDatas":{},"success":true},"dictList":[{"key":"0","value":"Completed"},{"key":"1","value":"Canceled"},{"key":"2","value":"Waiting to Roll-down"},{"key":"4","value":"Waiting to Cancel"}]}')}}]);
+//# sourceMappingURL=chunk-2d0cc01a.js.map
